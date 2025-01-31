@@ -58,6 +58,7 @@ HOW WOULD I COLLABORATE WITH A TEAMMATE TO IMPROVE AND EXPAND THE TASK :
 
 IF I HAD MORE TIME :
 
+  - I would use Docker to make the development experience better
   - allow users to upvote or downvote superheroes based on their humility
   - I would prioritize implementing the Update, Delete, and Search features, as they are essential for a fully functional CRUD API
   - I would explore adding Superhero Teams and Superhero Images to make the API more engaging and visually appealing
